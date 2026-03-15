@@ -1,10 +1,10 @@
 POST http://localhost:3003/api/blogs
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRpbWViYWciLCJpZCI6IjY5ODdlY2MzNTJhYjZiOGNlZWQ2MTk1YSIsImlhdCI6MTc3MDUxNjE2NX0.0koo_g4nNT1PlpuxRFZSoK0LfU285imbWDcFFkKBAxc
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6IkRlYm9yYSIsImlkIjoiNjlhOWUxYTIzYTRjYTZiNzk4MTg2NTM3IiwiaWF0IjoxNzcyNzQxMDkxfQ.7HLCBotlvHyTDad7qWLVTgNDe4BaHrFZoHF1hf-QRMg
 
 {
-   "title": "El mejor album",
-   "author": "Pantera",
-   "url": "www.Pantera.com",
-   "likes": 1233
+   "title": "Go To Statement Considered Harmful",
+   "author": "Edsger W. Dijkstra",
+   "url": "https://homepages.cwi.nl/~storm/teaching/reader/Dijkstra68.pdf",
+   "likes": 5
   }
